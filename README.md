@@ -22,4 +22,4 @@ Esse script em Python demonstra como classificar dígitos manuscritos utilizando
 - scikit-learn
 - matplotlib
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-21 at 08 26 29" src="https://github.com/user-attachments/assets/c4e9a351-e041-4287-ac5c-a27055fd1a7a" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-21 at 08 26 29" src="https://github.com/user-attachments/assets/68aff1d2-e201-481a-9ae5-b35459879c69" />
